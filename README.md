@@ -326,21 +326,6 @@ Planned improvements include:
 
 ---
 
-# Integration with Synex
-
-Sentinel PortScan was designed to fit naturally into reconnaissance pipelines such as Synex.
-
-Potential integrations include:
-
-* Host discovery
-* Service fingerprinting
-* CVE correlation
-* Exposure classification
-* Attack surface prioritization
-* Recon orchestration
-
----
-
 # Author
 
 Arthur Witt
